@@ -1,0 +1,2 @@
+５行目　NullPointerException
+６行目　ArrayIndexOutOfBoundsException(例外)
