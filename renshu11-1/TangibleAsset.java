@@ -14,6 +14,6 @@ public abstract class TangibleAsset extends Asset implements Thing{
     return this.weight;
   }
   public void setWeight(double weight){
-    this.weight = weight
+    this.weight = weight;
   }
 }
